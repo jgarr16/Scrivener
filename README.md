@@ -1,7 +1,7 @@
 # Templates for Scrivener 3
 
 ## Available templates:
-- __APA (7th Edition)__ - Conforms to the most recent release of the American Psychological Association's Style Guide.
+- __<a href="APA%20(7th%20Ed).scrivtemplate" download>APA (7th Ed)</a>__ - Conforms to the most recent release of the American Psychological Association's Style Guide.
 
 
 
