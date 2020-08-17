@@ -14,3 +14,5 @@
 5. Locate and select the template file (_the file will have a __.scrivtemplate__ file type_).
 6. Choose the category that best fits your template.
 7. Enjoy!
+
+*_If you find a flaw, submit an issue or do a pull request._
